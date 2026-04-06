@@ -1,0 +1,20 @@
+.header {
+    background-color: orange;
+    
+}
+
+.header-main {
+  background-image: url('/src/imagens/pc.png');
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+  justify-content: space-between;
+  color: white;
+}
+.menu {
+  display: flex;
+  gap: 10px;
+}
